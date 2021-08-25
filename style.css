@@ -1,0 +1,119 @@
+.firstdiv{background-color: white;}
+.second-item div{background-color: white;}
+.second{padding-left: 20px;}
+body{background-color:whitesmoke;}
+.first{text-align: center;}
+.first p button{background-color: black;
+color: white;}
+.grid-container{display: grid;
+    grid-template-columns: auto auto;
+    ;
+}
+.opacity{opacity: 0.5;}
+.title p span{font-family: 'Raleway', sans-serif;}
+.one{font-weight: 10px;
+    font-size: 20px;
+}  
+.title{font-family: 'Raleway', sans-serif;
+    padding-left: 20px;
+}  
+.read{padding-bottom: 10px;}
+.readtwo{padding: 20px;}
+.read button{background-color:white;
+    border:1.5px solid grey;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 14px;
+}   
+.third-item{background-color: white;}           
+
+.comments{margin-right: 500px;}
+.read p{float: right;
+    margin-top: 5px;
+    margin-right: 200px;
+font-weight: bold;
+font-size: 20px;}
+.read p button{background-color: black;
+color:white;}
+.blog{font-weight: 600;
+    font-family: 'Raleway', sans-serif;
+font-size: 20px;}
+.readtwo button{background-color:white;
+    border:1.5px solid grey;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 14px;
+    
+}   
+
+.readtwo p{float: right;
+    margin-top: 5px;
+    margin-right: 190px;
+font-weight: bold;
+font-size: 25px;}
+.readtwo p button{background-color: black;
+    color:white;}
+
+.grid-item-two    {padding-left: 30px;}
+.name{font-weight: bold;
+    padding-left: 30px;}
+.name-two{padding-left: 30px;}
+
+
+   
+  .firstlist{background-color: gray;}
+  .sec{float: left;}
+ .travel{background-color: black;
+color: white;}
+.nav{background-color: white;
+margin-top: 20px;}
+.last{margin-left: 20px;}
+.move-nav{padding-top: 20px;
+padding-bottom: 20px;
+padding-left: 20px;}
+.tags{font-size: 30px;
+    ;
+}
+.black{background-color: black;
+color: white;
+padding: 20px;
+width:130px;}
+.end{background-color:gray;
+}
+.space{padding: 30px;}
+.white{color: white;}
+.previous{background-color:
+    #3e3f40
+    ;
+color:#4f5250;
+padding: 20px;
+width:130px;}
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    padding-top: 10px;
+    background-color: white;
+    margin-top: 3px;
+    padding-left: 20px;
+  }
+  img {
+    max-width: 100%
+  }
+  
+  .text {
+    font-size: 20px;
+    padding-left: 40px;
+  }
+  .popular{font-size: 30px;
+background-color: whitesmoke;}
+
+.the-end{padding: 20px;}
+.mmain{padding: 20px;}
+.whitesmokepost{background-color: whitesmoke;
+font-size: 25px;}
+.white a{color: white;}
+
+
+
+   
